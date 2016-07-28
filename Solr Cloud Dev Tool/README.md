@@ -9,6 +9,12 @@ Servers :
 
 OS : 
 	WINDOWS
+	
+Rename : 
+
+Zoo1.cfg > Zookeeper1\conf\zoo.cfg
+Zoo2.cfg > Zookeeper2\conf\zoo.cfg
+Zoo3.cfg > Zookeeper2\conf\zoo.cfg
 
 Defalut Working Directory :
 C:/Solr_Cloud
@@ -37,8 +43,3 @@ C:/Solr_Cloud
     └───conf
             zoo.cfg
 
-Rename : 
-
-Zoo1.cfg > Zookeeper1\conf\zoo.cfg
-Zoo2.cfg > Zookeeper2\conf\zoo.cfg
-Zoo3.cfg > Zookeeper2\conf\zoo.cfg
