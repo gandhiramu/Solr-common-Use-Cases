@@ -1,24 +1,24 @@
-Version : 
-	Apache Zookeeper 3.4.6
-	Apache Solr 6.1.0
+<b>Version :</b> <br/>
+	Apache Zookeeper 3.4.6 <br/>
+	Apache Solr 6.1.0 <br/>
 
-Servers : 
+<b>Servers :</b><br/>
 	3 Solr  
 	3 Zookeeper (External) 
 
-OS : 
+<b>OS : </b>
 	WINDOWS
 	
-Host & PORT
-Zookeeper
+<b>Host & PORT</b><br/>
+Zookeeper <br/>
 	localhost:2181
 	localhost:2182
 	localhost:2183
 
-Solr : 
-	http://localhost:7500/solr/
-	http://localhost:8600/solr/
-	http://localhost:9700/solr/
+Solr : <br/>
+	http://localhost:7500/solr/ <br/>
+	http://localhost:8600/solr/ <br/>
+	http://localhost:9700/solr/ <br/>
 
 
 
